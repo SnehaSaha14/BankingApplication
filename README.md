@@ -77,8 +77,8 @@ Update`src/main/resources/application.properties`:
 
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/banking_db
-spring.datasource.username=your_username
-spring.datasource.password=your_password
+spring.datasource.username=root
+spring.datasource.password=nano
 spring.jpa.hibernate.ddl-auto=update
 ```
 
